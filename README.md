@@ -6,7 +6,9 @@ This project analyzes U.S. baby name trends from 1910 to 2020 using Google BigQu
 
 - `138_Project.ipynb` – Main Jupyter Notebook with all SQL queries and visualizations  
 - `final_report.docx` – Full technical report based on CMPE 138 project requirements  
-- `Presentation.pptx` – PowerPoint presentation for demo and final talk  
+- `Presentation.pptx` – PowerPoint presentation for demo and final talk
+- `ER_Diagram.png` – A visual ER diagram showing the structure of the dataset with one main entity (`BirthRecord`) and its attributes (`state`, `gender`, `year`, `name`, `number`)
+ 
 
 ## Project Features
 
